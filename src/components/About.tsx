@@ -57,7 +57,6 @@ export default () => (
         <img src="https://img.shields.io/badge/-GitHub-fff?logo=Telegram" />
       </a>{" "}
     
-     <a href="https://sourl.cn/7dPPQn"><img src="http://mxnf.store/123/liuliang.png" width="2541" height="1600" alt=""/></a>
     </p>
     
     
