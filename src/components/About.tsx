@@ -50,5 +50,17 @@ export default () => (
     
      <a href="https://sourl.cn/7dPPQn"><img src="http://mxnf.store/123/liuliang.png" width="2541" height="1600" alt=""/></a>
     </p>
+    
+    <p class="flex flex-wrap items-end mt-1">
+     开源地址{" "}
+      <a href="https://github.com/gcloudlab/QA" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-fff?logo=Telegram" />
+      </a>{" "}
+    
+     <a href="https://sourl.cn/7dPPQn"><img src="http://mxnf.store/123/liuliang.png" width="2541" height="1600" alt=""/></a>
+    </p>
+    
+    
+    
   </div>
 );
