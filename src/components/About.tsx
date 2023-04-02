@@ -31,7 +31,7 @@ export default () => (
     
     <p>
       <span text-lg text-pink-6>重要</span>{" "}
-      因为访问人数较多,免费秘钥经常失效不稳定,建议联系站长个位数获取独立账号+秘钥+高级网站!{" "}
+      因为访问人数较多,免费密钥即将消耗完,建议联系站长个位数获取独立账号+秘钥+高级网站!{" "}
       <strong>免费秘钥失效后，可进群联系站长</strong>{" "}
       
     </p>
@@ -39,7 +39,7 @@ export default () => (
       <span text-lg text-pink-6>
         更新
       </span>{" "}
-      由于站内访问量过大，免费密钥即将消耗完，且用且珍惜～如您有多余接口贡献可联系站长，可免费为您提供技术支持
+      APP已出!收录多个永久免费进群下载/<a href="https://gpt4.iswl.tk">点我高级GPT网站体验 </a>
     </p>
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
