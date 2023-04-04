@@ -334,7 +334,7 @@ export default () => {
         <details mb-4>
           <summary>
             <div class="flex justify-between items-end text-slate">
-              <p>高级设置           大方向</p>
+              <p>高级设置           <a href="https://gpt4.iswl.tk/">高级版已发布，点我去体验！</a></p>
               {/* <div class="flex ml-auto items-center" text-sm>
                 <span class="online-dot mr-2.5 mt-0.03"></span>
                 <span>{online} 在线</span>
