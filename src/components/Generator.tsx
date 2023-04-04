@@ -334,7 +334,7 @@ export default () => {
         <details mb-4>
           <summary>
             <div class="flex justify-between items-end text-slate">
-              <p>高级设置           <a href="https://gpt4.iswl.tk/">高级版已发布，点我去体验！</a></p>
+            <a href="https://gpt4.iswl.tk/" style="text-align: right" color="#000000">高级版已发，点我体验！</a>
               {/* <div class="flex ml-auto items-center" text-sm>
                 <span class="online-dot mr-2.5 mt-0.03"></span>
                 <span>{online} 在线</span>
@@ -475,7 +475,7 @@ export default () => {
       <textarea
         ref={inputRef!}
         id="input"
-        placeholder="说点什么 (设置可开启连续对话)... "
+        placeholder="说点什么 (设置里可开启连续对话)... "
         rows="1"
         resize-none
         autocomplete="off"
