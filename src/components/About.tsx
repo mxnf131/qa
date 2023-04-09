@@ -52,8 +52,8 @@ export default () => (
     </p>
     
     <p class="flex flex-wrap items-end mt-1">
-     开源地址{" "}
-      <a href="https://github.com/gcloudlab/QA" target="_blank">
+     更多免费GPT{" "}
+      <a href="gpt.mxnf.one" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-fff?logo=Telegram" />
       </a>{" "}
     
