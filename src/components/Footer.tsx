@@ -6,7 +6,7 @@ export default () => (
     <div class="flex" mt-3 gap-2>
       <a
         class="flex max-w-fit items-center justify-center space-x-2 rounded-1 border border-amber-300 bg-amber px-3 py-2 text-sm text-gray-600 shadow-sm transition-colors hover:border-amber-400 hover:bg-amber-300 hover:text-slate-2"
-        href="http://img.iswl.tk/123/123.jpg"
+        href="http://km.mxnf.one/"
         target="_blank"
         rel="noopener noreferrer">
         <svg
