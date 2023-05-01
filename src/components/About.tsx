@@ -12,12 +12,12 @@ export default () => (
       target="_blank">
     
     </a>{" "}
-   网站经常被墙，请保存永久网址：mxnf.tk
+   <a href="https://wwat.lanzoul.com/ifHwu0tvxs7e">网站经常被墙，点我下载APP永久体验新功能 </a>
     <strong>
       {" "}
       <a
         border-b
-        border-slate
+        border-slate1
         border-none
         hover:border-dashed
         href="http://mxnf.tk"
@@ -39,7 +39,7 @@ export default () => (
       <span text-lg text-pink-6>
         更新
       </span>{" "}
-      APP已出!收录多个永久免费进群下载/<a href="https://gpt4.iswl.tk">点我高级GPT网站体验 </a>
+     <a href="https://pd.qq.com/s/b2jib2csn">免费AI绘画入口</a>
     </p>
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
