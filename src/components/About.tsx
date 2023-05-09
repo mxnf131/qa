@@ -48,7 +48,7 @@ export default () => (
         <img src="https://img.shields.io/badge/-进入官网-fff?logo=Telegram" />
       </a>{" "}
     
-     <a href="https://sourl.cn/7dPPQn"><img src="http://img.iswl.tk/123/liuliang.png" width="2541" height="1600" alt=""/></a>
+     <a href="https://sourl.cn/MMV2Ms"><img src="http://img.iswl.tk/123/liuliang.png" width="2541" height="1600" alt=""/></a>
     </p>
     
     <p class="flex flex-wrap items-end mt-1">
