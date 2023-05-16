@@ -51,5 +51,9 @@ export default () => (
       <BackTop />
     </div>
     <div></div>
+    <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
+<script>
+  new LingQue.Monitor().init({id:"K49L3w3ZOtSimSSr"});
+</script>
   </footer>
 );
