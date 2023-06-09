@@ -32,7 +32,7 @@ export default () => (
       </a>
       <a
         class="flex max-w-fit items-center justify-center space-x-2 rounded-1 border border-amber-300 bg-amber px-3 py-2 text-sm text-gray-600 shadow-sm transition-colors hover:border-amber-400 hover:bg-amber-300 hover:text-slate-2"
-        href="https://jq.qq.com/?_wv=1027&k=NE2LYhyf"
+        href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DyoNwC1wHiqQHeOxJLb2rnvo2MF4BzkJ&authKey=GmBN4K4dG4VSEiCqRoDWTKUywENGT3ozPHgAIukoqlZHJLfxugQDy%2FY1gd475Ncr&noverify=0&group_code=854495421"
         target="_blank"
         rel="noopener noreferrer">
         <svg
@@ -51,9 +51,6 @@ export default () => (
       <BackTop />
     </div>
     <div></div>
-    <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
-<script>
-  new LingQue.Monitor().init({id:"K49L3w3ZOtSimSSr"});
-</script>
+   
   </footer>
 );
