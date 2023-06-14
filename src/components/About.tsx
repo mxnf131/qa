@@ -31,7 +31,7 @@ export default () => (
     
     <p>
       <span text-lg text-pink-6>重要</span>{" "}
-      因为访问人数较多,免费密钥即将消耗完,建议联系站长个位数获取独立账号+秘钥+高级网站!{" "}
+      访问人数较多,免费密钥即将消耗完,建议联系站长个位数获取独立账号+秘钥+高级网站!{" "}
       <strong>免费秘钥失效后，可进群联系站长</strong>{" "}
       
     </p>
@@ -43,10 +43,7 @@ export default () => (
     </p>
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
-     官网更多黑科技{" "}
-      <a href="http://mxnf.tk" target="_blank">
-        <img src="https://img.shields.io/badge/-进入官网-fff?logo=Telegram" />
-      </a>{" "}
+    
     
      <a href="https://sourl.cn/MMV2Ms"><img src="http://img.iswl.tk/123/liuliang.png" width="2541" height="1600" alt=""/></a>
     </p>
