@@ -12,7 +12,7 @@ export default () => (
       target="_blank">
     
     </a>{" "}
-   <a href="https://wwat.lanzoul.com/ifHwu0tvxs7e">网站经常被墙，点我下载APP永久体验新功能 </a>
+   <a href="https://wwat.lanzoul.com/tp/iYSxb10fe8mb">网站经常被墙，点我下载APP永久体验新功能 </a>
     <strong>
       {" "}
       <a
