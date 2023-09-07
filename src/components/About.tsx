@@ -8,7 +8,7 @@ export default () => (
       border-slate
       border-none
       hover:border-dashed
-      href="httpz://mxnf.tk"
+      href="http://mxnf.tk"
       target="_blank">
     
     </a>{" "}
@@ -50,7 +50,7 @@ export default () => (
     
     <p class="flex flex-wrap items-end mt-1">
      更多免费GPT{" "}
-      <a href="http://gpt1.mxnf.one" target="_blank">
+      <a href="https://cs.chinanb.one" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-fff?logo=Telegram" />
       </a>{" "}
     
