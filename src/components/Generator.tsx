@@ -334,7 +334,7 @@ export default () => {
         <details mb-4>
           <summary>
             <div class="flex justify-between items-end text-slate">
-              <p>高级设置 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chat.mxnf1.one" style="text-align: right" color="#000000">已停止维护，点我进入新网站</a></p>
+              <p>高级设置 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chat.iswl.tk" style="text-align: right" color="#000000">已停止维护，点我进入新网站</a></p>
               {/* <div class="flex ml-auto items-center" text-sm>
                 <span class="online-dot mr-2.5 mt-0.03"></span>
                 <span>{online} 在线</span>
